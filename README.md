@@ -9,4 +9,4 @@
 ⭐️ From [TonyWilson](https://github.com/tony930727)
 </div>
 
-<a href="https://app.daily.dev/tonywilson"><img src="https://api.daily.dev/devcards/v2/pYxnXAlV7PNaNmml78fMr.png?type=default&r=rd0" width="356" alt="Tony Wilson's Dev Card"/></a>
+<a href="https://app.daily.dev/tonywilson"><img src="https://api.daily.dev/devcards/v2/pYxnXAlV7PNaNmml78fMr.png?type=default&r=h3w" width="356" alt="Tony Wilson's Dev Card"/></a>
